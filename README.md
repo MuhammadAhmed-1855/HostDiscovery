@@ -20,8 +20,11 @@ This is a Python script that allows users to perform various host discovery tech
 ## Usage
 
 1. Make sure you have Python installed on your system.
-2. Run the script using `python HostDiscover.py`.
-3. Follow the on-screen instructions to choose the scan type and provide necessary inputs.
+2. Run the script using following command:
+   ```
+   python HostDiscover.py
+   ```
+4. Follow the on-screen instructions to choose the scan type and provide necessary inputs.
 
 ## ASCII Art
 
